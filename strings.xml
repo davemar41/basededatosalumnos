@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BasedeAlumnos</string>
+    <string name="titulo">Mis Alumnos</string>
+    <string name="nombre">Nombre</string>
+    <string name="lugar">Lugar</string>
+    <string name="deberes">Deberes</string>
+    <string name="horario">horario</string>
+    <string name="listar">listar</string>
+
+    <string name="grabar">grabar</string>
+    <string name="borrar">borrar</string>
+    <string name="codigo">Codigo</string>
+    <string name="precio">Precio</string>
+
+
+</resources>
